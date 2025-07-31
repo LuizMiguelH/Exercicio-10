@@ -1,0 +1,21 @@
+form {
+    width: 30rem;
+}
+
+input {
+    height: 3rem;
+}
+
+button {
+    height: 4rem;
+    width: 16rem;
+}
+
+.check{
+    width: 1.625rem;
+    height: 1.625rem;
+}
+
+img {
+    width: 8rem;
+}
